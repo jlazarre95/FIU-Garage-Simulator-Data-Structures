@@ -1,0 +1,350 @@
+run:
+***FIU001 has arrived at FIU and is #1 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU001    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU002 has arrived at FIU and is #2 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU001    #2 - FIU002    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU003 has arrived at FIU and is #3 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU001    #2 - FIU002    #3 - FIU003    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU001 has been made.
+***FIU001 has departed from the FIU garage. It has been moved out of the garage 1 time(s).
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU020 has been made.
+***FIU020 was neither found in the garage or the waiting line! Try another garage! (No changes made)
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU004 has arrived at FIU and is #3 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU004    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU005 has arrived at FIU and is #4 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU004    #4 - FIU005    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU004 has been made.
+***FIU002 has been temporarily moved out of the garage to let FIU004 depart from the garage.
+***FIU003 has been temporarily moved out of the garage to let FIU004 depart from the garage.
+***FIU004 has departed from the FIU garage. It has been moved out of the garage 1 time(s).
+***FIU003 has been moved back into the garage.
+***FIU002 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU006 has arrived at FIU and is #4 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU007 has arrived at FIU and is #5 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU007    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU007 has been made.
+***FIU002 has been temporarily moved out of the garage to let FIU007 depart from the garage.
+***FIU003 has been temporarily moved out of the garage to let FIU007 depart from the garage.
+***FIU005 has been temporarily moved out of the garage to let FIU007 depart from the garage.
+***FIU006 has been temporarily moved out of the garage to let FIU007 depart from the garage.
+***FIU007 has departed from the FIU garage. It has been moved out of the garage 1 time(s).
+***FIU006 has been moved back into the garage.
+***FIU005 has been moved back into the garage.
+***FIU003 has been moved back into the garage.
+***FIU002 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU008 has arrived at FIU and is #5 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU008    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU009 has arrived at FIU and is #6 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU008    #6 - FIU009    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU010 has arrived at FIU and is #7 in the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU008    #6 - FIU009    #7 - FIU010    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***FIU011 has arrived at FIU, but the garage is full! FIU011 is now #1 in the waiting line.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU008    #6 - FIU009    #7 - FIU010    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU011    
+
+***FIU012 has arrived at FIU, but the garage is full! FIU012 is now #2 in the waiting line.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU008    #6 - FIU009    #7 - FIU010    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU011    #2 - FIU012    
+
+***A request to obtain FIU008 has been made.
+***FIU002 has been temporarily moved out of the garage to let FIU008 depart from the garage.
+***FIU003 has been temporarily moved out of the garage to let FIU008 depart from the garage.
+***FIU005 has been temporarily moved out of the garage to let FIU008 depart from the garage.
+***FIU006 has been temporarily moved out of the garage to let FIU008 depart from the garage.
+***FIU008 has departed from the FIU garage. It has been moved out of the garage 1 time(s).
+***FIU006 has been moved back into the garage.
+***FIU005 has been moved back into the garage.
+***FIU003 has been moved back into the garage.
+***FIU002 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU009    #6 - FIU010    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU011    #2 - FIU012    
+
+***FIU011 has moved from the waiting line and is now #7 in the garage
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU009    #6 - FIU010    #7 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU012    
+
+***FIU013 has arrived at FIU, but the garage is full! FIU013 is now #2 in the waiting line.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU009    #6 - FIU010    #7 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU012    #2 - FIU013    
+
+***A request to obtain FIU012 has been made.
+***FIU012 has departed FIU from the waiting line. It never made it to the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU005    #4 - FIU006    #5 - FIU009    #6 - FIU010    #7 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU013    
+
+***A request to obtain FIU005 has been made.
+***FIU002 has been temporarily moved out of the garage to let FIU005 depart from the garage.
+***FIU003 has been temporarily moved out of the garage to let FIU005 depart from the garage.
+***FIU005 has departed from the FIU garage. It has been moved out of the garage 3 time(s).
+***FIU003 has been moved back into the garage.
+***FIU002 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU006    #4 - FIU009    #5 - FIU010    #6 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU013    
+
+***FIU013 has moved from the waiting line and is now #7 in the garage
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU003    #3 - FIU006    #4 - FIU009    #5 - FIU010    #6 - FIU011    #7 - FIU013    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU003 has been made.
+***FIU002 has been temporarily moved out of the garage to let FIU003 depart from the garage.
+***FIU003 has departed from the FIU garage. It has been moved out of the garage 5 time(s).
+***FIU002 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU006    #3 - FIU009    #4 - FIU010    #5 - FIU011    #6 - FIU013    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU013 has been made.
+***FIU002 has been temporarily moved out of the garage to let FIU013 depart from the garage.
+***FIU006 has been temporarily moved out of the garage to let FIU013 depart from the garage.
+***FIU009 has been temporarily moved out of the garage to let FIU013 depart from the garage.
+***FIU010 has been temporarily moved out of the garage to let FIU013 depart from the garage.
+***FIU011 has been temporarily moved out of the garage to let FIU013 depart from the garage.
+***FIU013 has departed from the FIU garage. It has been moved out of the garage 1 time(s).
+***FIU011 has been moved back into the garage.
+***FIU010 has been moved back into the garage.
+***FIU009 has been moved back into the garage.
+***FIU006 has been moved back into the garage.
+***FIU002 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU006    #3 - FIU009    #4 - FIU010    #5 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU009 has been made.
+***FIU002 has been temporarily moved out of the garage to let FIU009 depart from the garage.
+***FIU006 has been temporarily moved out of the garage to let FIU009 depart from the garage.
+***FIU009 has departed from the FIU garage. It has been moved out of the garage 2 time(s).
+***FIU006 has been moved back into the garage.
+***FIU002 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU002    #2 - FIU006    #3 - FIU010    #4 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU002 has been made.
+***FIU002 has departed from the FIU garage. It has been moved out of the garage 8 time(s).
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU006    #2 - FIU010    #3 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU010 has been made.
+***FIU006 has been temporarily moved out of the garage to let FIU010 depart from the garage.
+***FIU010 has departed from the FIU garage. It has been moved out of the garage 2 time(s).
+***FIU006 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU006    #2 - FIU011    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU011 has been made.
+***FIU006 has been temporarily moved out of the garage to let FIU011 depart from the garage.
+***FIU011 has departed from the FIU garage. It has been moved out of the garage 2 time(s).
+***FIU006 has been moved back into the garage.
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+#1 - FIU006    
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+***A request to obtain FIU006 has been made.
+***FIU006 has departed from the FIU garage. It has been moved out of the garage 7 time(s).
+=====================================================================================================
+Status of Garage (cars from 1st to last position):
+=====================================================================================================
+No cars currently in garage.
+=====================================================================================================
+Status of Waiting Line (cars from 1st to last position):
+=====================================================================================================
+No cars currently in waiting line.
+
+BUILD SUCCESSFUL (total time: 7 seconds)
